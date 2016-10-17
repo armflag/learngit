@@ -1,4 +1,8 @@
 
 this is first learn git
 two change
-simple & third
+<<<<<<< HEAD
+simple AND third
+=======
+simple AND third
+>>>>>>> features
